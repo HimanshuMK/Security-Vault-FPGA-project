@@ -47,6 +47,8 @@ The Verilog code implements a security vault system controlled by an FSM. Here's
 ## State Diagram
 
 The FSM includes states such as IDLE, WAIT_PASSWORD, RIGHT_PASS, WRONG_PASS, and STOP, with transitions based on sensor inputs and password correctness.
+![image](https://github.com/user-attachments/assets/7c725b8d-283b-4be2-83a7-598344c05b16)
+
 
 ## Code Overview
 
